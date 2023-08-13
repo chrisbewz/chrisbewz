@@ -6,7 +6,7 @@ I'm Christian Celso Bewzenko, currently working as C# Developer at WEG Electric 
 
 - Windows desktop application development (WPF, UWP), where the main projects are related to internal applications development for daily projects workflow improvement.
 - Library development for windows applications interoperability (COM).
-- SAP integration scripts (Python | C# | SAP Scripting Engine).
+- SAP RFC integration scripts (Python | C# | SAP Scripting Engine).
 
 
 # 💻 Tech Stack
