@@ -2,6 +2,7 @@
 
 I'm Christian Celso Bewzenko, currently working as C# Developer at WEG Electric Equipments. </br>
 
+
 # 🚀 Expertises
 
 - Windows desktop application development (WPF, UWP), where the main projects are related to internal applications development for daily projects workflow improvement.
