@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm Christian Celso Bewzenko, currently working as C# Developer at WEG Electric Equipments. </br>
+I'm Christian Celso Bewzenko, currently working as C#/Python Developer at WEG Electric Equipments. </br>
 
 
 # 🚀 Expertises
