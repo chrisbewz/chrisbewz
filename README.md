@@ -5,9 +5,10 @@ I'm Christian Celso Bewzenko, currently working as C#/Python Developer at WEG El
 
 # 🚀 Expertises
 
-- Windows desktop application development (WPF, UWP), where the main projects are related to internal applications development for daily projects workflow improvement.
-- Library development for windows applications interoperability (COM).
-- SAP RFC integration scripts (Python | C# | SAP Scripting Engine).
+- Windows desktop application development (WPF, UWP, WinUi)
+- Windows services and worker services development
+- Libraries development for windows applications interoperability (COM).
+
 
 
 # 💻 Primary Tech Stacks
