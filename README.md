@@ -1,6 +1,6 @@
 # Christian Celso Bewzenko
 
-Mid-level Software Engineer at [WEG Electric Equipments](https://www.weg.net) · Blumenau, Brazil  
+Mid-level Full Stack Software Developer at [WEG Electric Equipments](https://www.weg.net) · Blumenau, Brazil  
 2+ years delivering backend, desktop, and automation solutions in enterprise environments
 
 ---
